@@ -12,4 +12,6 @@ This tower Contains:
 * 20 Complete Upgrades
 * Custom Icons, Portraits and 3D Models.
 
+## Theme of unity: This hero by design forces you to group/unite most of your towers together, by giving them various buffs and other bonuses.
+
 [![Requires BTD6 Mod Helper](https://raw.githubusercontent.com/gurrenm3/BTD-Mod-Helper/master/banner.png)](https://github.com/gurrenm3/BTD-Mod-Helper#readme)
